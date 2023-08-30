@@ -1,2 +1,2 @@
 # SQL
- PMG_Assignment
+ This is the repository for SQL queries
